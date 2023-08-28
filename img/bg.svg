@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1228.02 952" style="enable-background:new 0 0 1228.02 952;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.4;fill:#1890FF;}
+	.st1{opacity:0.4;fill:#FFFFFF;}
+	.st2{opacity:0.4;}
+	.st3{fill:#1890FF;}
+	.st4{fill:#FFFFFF;}
+</style>
+<polygon class="st0" points="16.43,180.27 0,180.27 0,196.7 0,213.13 16.43,213.13 16.43,196.7 32.86,196.7 32.86,180.27 "/>
+<polygon class="st0" points="1270.41,295.07 1270.41,285.07 968.41,285.07 958.41,285.07 958.41,295.07 958.41,345.07 
+	958.41,345.07 968.41,345.07 1136.41,345.07 1136.41,335.07 968.41,335.07 968.41,295.07 "/>
+<polygon class="st0" points="-86.31,650.14 -86.31,660.14 215.69,660.14 225.69,660.14 225.69,650.14 225.69,600.14 225.69,600.14 
+	215.69,600.14 47.69,600.14 47.69,610.14 215.69,610.14 215.69,650.14 "/>
+<polygon class="st1" points="1218.02,134.42 1218.02,172.42 1132.81,172.42 1132.81,182.42 1218.02,182.42 1228.02,182.42 
+	1228.02,172.42 1228.02,134.42 "/>
+<g class="st2">
+	<circle class="st3" cx="796.17" cy="276.33" r="6"/>
+	<circle class="st3" cx="861.91" cy="276.33" r="6"/>
+	<circle class="st3" cx="927.65" cy="276.33" r="6"/>
+	<circle class="st3" cx="927" cy="321.07" r="6"/>
+	<circle class="st3" cx="927.65" cy="366.59" r="6"/>
+	<circle class="st3" cx="992.87" cy="366.59" r="4"/>
+	<circle class="st3" cx="861.91" cy="321.2" r="4"/>
+	<circle class="st3" cx="796.17" cy="321.2" r="2.5"/>
+	<circle class="st3" cx="992.87" cy="321.2" r="2.5"/>
+</g>
+<rect x="454.56" y="446.59" transform="matrix(0.7071 0.7071 -0.7071 0.7071 530.9249 -224.588)" class="st0" width="164" height="164"/>
+<path class="st0" d="M536.56,332.01L339.99,528.59l196.58,196.58l196.58-196.58L536.56,332.01z M386.66,528.59l149.91-149.91
+	l149.91,149.91L536.56,678.5L386.66,528.59z"/>
+<path class="st0" d="M132.38,190.32l-92.01,92.01l92.01,92.01l92.01-92.01L132.38,190.32z M62.21,282.33l70.17-70.17l70.17,70.17
+	l-70.17,70.17L62.21,282.33z"/>
+<path class="st1" d="M1022.99,754.32l-75.27,75.27l75.27,75.27l75.27-75.27L1022.99,754.32z M965.59,829.59l57.4-57.4l57.4,57.4
+	l-57.4,57.4L965.59,829.59z"/>
+<g class="st2">
+	<circle class="st4" cx="230.39" cy="770.3" r="6"/>
+	<circle class="st4" cx="164.65" cy="770.3" r="6"/>
+	<circle class="st4" cx="98.91" cy="770.3" r="6"/>
+	<circle class="st4" cx="99.56" cy="725.55" r="6"/>
+	<circle class="st4" cx="98.91" cy="680.03" r="6"/>
+	<circle class="st4" cx="33.69" cy="680.03" r="4"/>
+	<circle class="st4" cx="164.65" cy="725.43" r="4"/>
+	<circle class="st4" cx="230.39" cy="725.43" r="2.5"/>
+	<circle class="st4" cx="33.69" cy="725.43" r="2.5"/>
+</g>
+<rect x="1038.32" y="478.14" class="st0" width="88" height="152"/>
+<rect x="1190.18" y="433.38" class="st0" width="20" height="50"/>
+<rect x="29.69" y="829.72" class="st1" width="40" height="75"/>
+</svg>
